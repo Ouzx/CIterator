@@ -1,0 +1,12 @@
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\ClassIterator.exe.config
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\ClassIterator.exe
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\ClassIterator.pdb
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\obj\Debug\ClassIterator.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\obj\Debug\ClassIterator.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\obj\Debug\ClassIterator.exe
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\obj\Debug\ClassIterator.pdb
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\LanguageExt.Core.dll
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\System.ValueTuple.dll
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\LanguageExt.Core.xml
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\bin\Debug\System.ValueTuple.xml
+C:\Users\oguzh\source\repos\ClassIterator\ClassIterator\obj\Debug\ClassIterator.csproj.CopyComplete
