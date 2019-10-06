@@ -4,7 +4,7 @@ using System.Reflection;
 namespace ClassIterator
 {
     /*
-     * http://www.idlebundle.com/c-class-functional-class-iteration-generic/
+     * http://www.idlebundle.com/c-functional-class-iteration-generic/
      */
     class Program
     {
