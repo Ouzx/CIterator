@@ -1,6 +1,6 @@
 # CIterator
 ClassIteration
-http://www.idlebundle.com/c-class-functional-class-iteration-generic/
+http://www.idlebundle.com/c-functional-class-iteration-generic/
 C# dilinde binary-writing diye bir olay var.
 Verilerinizi kısmen-binary olarak tutup saklamanıza ve kaydetmenize olanak sağlıyor.
 Ve gayet de hızlı çalışıyor. Ancak binary-writer olayının bazı sıkıntıları var.
